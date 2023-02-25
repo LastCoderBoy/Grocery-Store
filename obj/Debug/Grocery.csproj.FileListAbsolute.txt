@@ -1,0 +1,12 @@
+C:\Users\TEXNO\source\repos\Grocery\bin\Debug\Grocery.exe.config
+C:\Users\TEXNO\source\repos\Grocery\bin\Debug\Grocery.exe
+C:\Users\TEXNO\source\repos\Grocery\bin\Debug\Grocery.pdb
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.csproj.AssemblyReference.cache
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.Form1.resources
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.Properties.Resources.resources
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.csproj.GenerateResource.cache
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.csproj.CoreCompileInputs.cache
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.exe
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.pdb
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.AddProducts_Form.resources
+C:\Users\TEXNO\source\repos\Grocery\obj\Debug\Grocery.Shopping.resources

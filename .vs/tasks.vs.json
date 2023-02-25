@@ -1,0 +1,15 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Form1.Designer",
+      "appliesTo": "Form1.Designer.cs",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-Grocery",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
